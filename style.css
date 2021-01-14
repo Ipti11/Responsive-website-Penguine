@@ -1,0 +1,60 @@
+
+.nav-style{
+    font: bold;
+}
+.font-style{
+    text-align: center;
+    
+}
+.name-highlight{
+    color: rgb(221, 177, 34);
+}
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    color: rgb(31, 31, 80);
+}
+    
+
+.first-part img{
+    width: 90%;
+}
+.penguine-fashion{
+    text-align: center;
+}
+
+.penguine-fashion img{
+    width: 15%;
+
+}
+.woman-jacket{
+    background-color: rgb(252, 252, 237);
+    
+    
+}
+.women-jacket-size img{
+    height: 50%;
+    width: 50%;
+    align-items: center;
+}
+.man-jacket-size img{
+    height: 50%;
+    width: 50%;
+    align-items: center;
+
+}
+
+    
+.man-jacket{
+    background-color: rgb(252, 252, 237);
+   
+}
+.card-size img{
+    width: 15%;
+
+}
+.shopping-troly img{
+    width: 60%;
+    
+
+}
